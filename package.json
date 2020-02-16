@@ -1,0 +1,27 @@
+{
+  "name": "grunt-less-image",
+  "version": "1.0.0",
+  "description": "minify images in reloaded browser",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ivers1/Grunt-Less-Image.git"
+  },
+  "author": "Ørjan Iversen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ivers1/Grunt-Less-Image/issues"
+  },
+  "homepage": "https://github.com/ivers1/Grunt-Less-Image#readme",
+  "devDependencies": {
+    "grunt": "^1.0.4",
+    "grunt-browser-sync": "^2.2.0",
+    "grunt-contrib-cssmin": "^3.0.0",
+    "grunt-contrib-imagemin": "^3.1.0",
+    "grunt-contrib-less": "^2.0.0",
+    "grunt-contrib-watch": "^1.1.0"
+  }
+}
